@@ -1,0 +1,28 @@
+.order-placed-notification {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    /* background-color: green; */
+    background: linear-gradient(to right, #C04848, #480048);
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    font-size: x-large;
+    z-index: 9999;
+    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  
+  .order-placed-notification button {
+    margin-top: 5px;
+    padding: 5px 10px;
+    background-color: white;
+    color: rgba(0, 0, 0, 0.767);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: x-large;
+    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+
+  
