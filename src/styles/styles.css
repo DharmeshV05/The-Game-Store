@@ -40,7 +40,7 @@ body{
 .app-component-container > div:nth-child(2) > div:nth-child(1){ /* Powered By Container */
     text-align: center;
     margin: 20px;
-    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
     font-size: 40px;
     color:#e2e8f0;
     letter-spacing: 3px;
@@ -65,7 +65,7 @@ body{
 /* main-navigation-component-container - The Main Navigation Component Container. */
 .main-navigation-component-container{
     padding: 10px;
-    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
 }
 
 .main-navigation-component-container > div:nth-child(1){ /* THE GAME STORE Parent Container (Main Title) */
@@ -132,7 +132,7 @@ body{
 /* shoppping-navigation-component-container - The Shopping Navigation Component Container. */
 .shopping-navigation-component-container{
     text-align: center;
-    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
     color: #e2e8f0;
     margin-top: 20px;
 }
@@ -172,7 +172,7 @@ body{
     margin-top: 70px;
     margin-bottom: 100px;
     padding: 10px;
-    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
 }
 
 .game-category-component-container > p{ /* Category Title */
@@ -226,7 +226,7 @@ body{
 
 .product-component-container > div:nth-child(1){ /* Product Name Container */
     color: #e2e8f0;
-    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
     text-align: center;
     letter-spacing: 5px;
     font-size: 30px;
@@ -274,7 +274,7 @@ body{
 }
 .product-component-container > div:nth-child(4) > button{
     padding: 5px 15px 5px 19px;
-    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
     font-size: 20px;
     font-weight: bold;
     letter-spacing: 2px;
@@ -293,7 +293,7 @@ body{
 }
 .product-component-container > div:nth-child(5) > button{
     padding: 5px 15px 5px 15px;
-    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
     font-size: 20px;
     font-weight: bold;
     letter-spacing: 2px;
@@ -324,7 +324,7 @@ body{
     width: 50%;
     padding: 10px;
     background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
-    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
     font-size: 20px;
     letter-spacing: 3px;
     overflow-y: scroll;
@@ -422,7 +422,7 @@ body{
 .checkout-section > div > a{
     padding: 5px 15px 5px 15px;
     font-size: 20px;
-    font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
     letter-spacing: 3px;
     border: 1px solid #C04848;
     border-radius: 10px;
@@ -541,7 +541,7 @@ body{
 
     .app-component-container > div:nth-child(2) > div:nth-child(1){  /* Powered By Section */
         text-align: center;
-        font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
         font-size: 25px;
         letter-spacing: 4px;
         color:  #e2e8f0;
@@ -576,7 +576,7 @@ body{
     }
     .main-navigation-component-container > div:nth-child(1) > a{
         text-decoration: none;
-        font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
         color: #e2e8f0;
     }
 
@@ -593,7 +593,7 @@ body{
         color: #e2e8f0;
         text-decoration: none;
         letter-spacing: 3px;
-        font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
     }
 
     .main-navigation-component-container > div:nth-child(2) > div > button{ /* Search Link | Cart Link */
@@ -622,7 +622,7 @@ body{
         padding: 10px;
         margin-top: 20px;
         color: #e2e8f0;
-        font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
     }
 
     .shopping-navigation-component-container{  /* Shopping Navigation Container */
@@ -700,7 +700,7 @@ body{
     }
 
     .product-component-container > div:nth-child(1){ /* Product Title */
-        font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
         text-align: center;
         letter-spacing: 4px;
         color: #e5e7eb;
@@ -744,7 +744,7 @@ body{
     }
     .product-component-container > div:nth-child(4) > button{ 
         padding: 5px 15px 5px 19px;
-        font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
         font-size: 20px;
         font-weight: bold;
         letter-spacing: 2px;
@@ -759,7 +759,7 @@ body{
     }
     .product-component-container > div:nth-child(5) > button{ 
         padding: 5px 15px 5px 15px;
-        font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
         font-size: 20px;
         font-weight: bold;
         letter-spacing: 2px;
@@ -783,7 +783,7 @@ body{
         width: 100%;
         padding: 10px;
         background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
-        font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
         font-size: 20px;
         letter-spacing: 3px;
         overflow-y: scroll;
@@ -870,7 +870,7 @@ body{
     .checkout-section > div > a{
         padding: 5px 15px 5px 15px;
         font-size: 20px;
-        font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        /* font-family: army-of-darkness, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
         letter-spacing: 3px;
         border: 1px solid #C04848;
         border-radius: 10px;
